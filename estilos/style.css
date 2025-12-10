@@ -50,7 +50,16 @@ div#imagem {
     height: 200px;
 }
 
-div#formulario {
+div#form {
     display: block;
     padding: 10px;
 }
+
+    div#form > h1 {
+        text-align: center;
+        margin: 10px;
+    }
+
+    div#form > p{
+        font-size: 0.8em;
+    }
